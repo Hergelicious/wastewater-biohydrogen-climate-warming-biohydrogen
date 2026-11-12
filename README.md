@@ -4,7 +4,7 @@ Analysis code for the manuscript *Climate warming expands operating windows for 
 
 The code works out, for each of 56,506 wastewater treatment plants in HydroWASTE, the months in which an unheated dark fermentation reactor fed with household food waste and primary sludge would run warm enough for hydrogen production. It does this for the present climate and for global warming levels of 1.5, 2, 3 and 4 °C. It then estimates hydrogen output and its uncertainty, runs a screening greenhouse-gas balance and a screening energy balance, and overlays country electricity access (SDG 7.1).
 
-The package holds the analysis code only. Code for figures, the graphical abstract and document formatting is not included. Every number in the manuscript, the ESI tables and the figure data comes from the files the scripts write to `results/`.
+
 
 ## Contents
 
