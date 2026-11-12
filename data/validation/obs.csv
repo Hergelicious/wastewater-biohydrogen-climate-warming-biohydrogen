@@ -1,0 +1,39 @@
+site,country,lat,lon,months,T_obs,type
+Winnipeg SEWPCC,Canada,49.80,-97.12,1,13.3,monthly
+Winnipeg SEWPCC,Canada,49.80,-97.12,2,12.9,monthly
+Winnipeg SEWPCC,Canada,49.80,-97.12,3,12.3,monthly
+Winnipeg SEWPCC,Canada,49.80,-97.12,4,12.0,monthly
+Winnipeg SEWPCC,Canada,49.80,-97.12,5,13.3,monthly
+Winnipeg SEWPCC,Canada,49.80,-97.12,6,15.3,monthly
+Winnipeg SEWPCC,Canada,49.80,-97.12,7,16.9,monthly
+Winnipeg SEWPCC,Canada,49.80,-97.12,8,17.5,monthly
+Winnipeg SEWPCC,Canada,49.80,-97.12,9,17.3,monthly
+Winnipeg SEWPCC,Canada,49.80,-97.12,10,16.9,monthly
+Winnipeg SEWPCC,Canada,49.80,-97.12,11,15.9,monthly
+Winnipeg SEWPCC,Canada,49.80,-97.12,12,14.6,monthly
+Linkoping WWTP,Sweden,58.42,15.64,1-12,16.5,annual
+England crude sewage,UK,52.5,-1.5,1,10.8,monthly
+England crude sewage,UK,52.5,-1.5,8,18.7,monthly
+England crude sewage,UK,52.5,-1.5,1-12,14.5,annual
+ARA Walgau,Austria,47.22,9.66,1-12,12.7,annual
+Ingenried,Germany,47.78,10.85,1-12,13.6,annual
+Tokyo Shibaura,Japan,35.63,139.75,1-12,23.75,annual
+Tokyo Ariake,Japan,35.64,139.79,1-12,24.5,annual
+Tokyo Ochiai,Japan,35.71,139.68,1-12,23.15,annual
+Hiroshima Senda/Eba/Asahimachi,Japan,34.37,132.46,1-12,21.5,annual
+Hiroshima Seibu,Japan,34.36,132.40,1-12,22.5,annual
+Jiangsu AAO WWTP,China,32.0,119.5,1,11.6,monthly
+Jiangsu AAO WWTP,China,32.0,119.5,8,27.0,monthly
+Point Loma San Diego,USA,32.67,-117.24,1-12,24.9,annual
+Kabd WWTP,Kuwait,29.2,47.8,12;1;2,23.4,seasonal
+Kabd WWTP,Kuwait,29.2,47.8,3;4;5,28.2,seasonal
+Kabd WWTP,Kuwait,29.2,47.8,6;7;8,32.4,seasonal
+Kabd WWTP,Kuwait,29.2,47.8,9;10;11,30.53,seasonal
+Khirbet As-Samra,Jordan,32.15,36.16,9;10,26.82,seasonal
+Shahrekord WWTPs,Iran,32.33,50.86,1-12,14.0,annual
+Gabal El-Asfar Cairo,Egypt,30.20,31.37,12;1;2,17.5,seasonal
+Gabal El-Asfar Cairo,Egypt,30.20,31.37,6;7;8,29.2,seasonal
+Porto Alegre Navegantes,Brazil,-29.99,-51.20,1-12,23.2,annual
+Janga Paulista,Brazil,-7.93,-34.87,1-12,28.9,annual
+Legon Accra,Ghana,5.65,-0.19,10;11;12;1;2;3,29.8,seasonal
+Singapore WWTPs,Singapore,1.35,103.82,11;12;1;2,30.15,seasonal
